@@ -1,3 +1,9 @@
+## First change
+Go with the fork
+
+## Second change
+![](https://octodex.github.com/images/stormtroopocat.png)
+
 # The power of open science: publishing with GitHub
 
 [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes more about the palmerpenguins package. 
