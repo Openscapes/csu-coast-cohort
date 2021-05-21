@@ -7,6 +7,7 @@ Here is a list *(lists need a carriage return before list items):*
 
 - bananas
 - tamales
+- cats!
 
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
 
@@ -15,6 +16,7 @@ Name | Twitter | GitHub
 -----|---------|--------
 openscapes | [@openscapes](https://twitter.com/openscapes) | [@erinmr](https://github.com/openscapes)
 palmerpenguins |  | [@palmerpenguins](https://github.com/allisonhorst/palmerpenguins)
+Caroline Rodriguez |  | [@spyagnes](https://github.com/coral-line-rodriguez)
 
 Have you noticed the `[]()` pattern to make links in Markdown? Put words to hyperlink in `[]` and the URL in `()`. 
 
