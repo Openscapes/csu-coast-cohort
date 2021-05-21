@@ -25,5 +25,6 @@ We can include an image with the same format, but note the preceding exclamation
 
 [Cal Poly Marine Conservation Lab](https://www.marineconservationlab.org/)
 
+Randomly selected image from the webiverse
 ![](https://i.picsum.photos/id/866/200/300.jpg?hmac=rcadCENKh4rD6MAp6V_ma-AyWv641M4iiOpe1RyFHeI)
 
