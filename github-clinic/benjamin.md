@@ -8,7 +8,7 @@ Here is a list *(lists need a carriage return before list items):*
 
 - bananas
 - tamales
-- I need a taco with a tamale and a bannana
+- I need a taco with a tamale and a banana
 - Ben is very very lost
 
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
