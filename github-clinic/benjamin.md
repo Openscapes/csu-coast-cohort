@@ -1,4 +1,5 @@
 # The power of open science: publishing with GitHub
+#If only I really understood this
 
 [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes more about the palmerpenguins package. 
 Learn more on the package webpage: <https://allisonhorst.github.io/palmerpenguins>
@@ -22,6 +23,6 @@ Have you noticed the `[]()` pattern to make links in Markdown? Put words to hype
 
 We can include an image with the same format, but note the preceding exclamation point: `![]()` *(From the browser, you'll need an image with an existing url).* 
 
-![Cal Poly Marine Conservation Lab](https://www.marineconservationlab.org/)
+[Cal Poly Marine Conservation Lab](https://www.marineconservationlab.org/)
 ![](https://octodex.github.com/images/labtocat.png)
 
