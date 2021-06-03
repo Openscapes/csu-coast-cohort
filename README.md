@@ -14,3 +14,4 @@ This opportunity is funded by The California State University Council on Ocean A
 - [loganlabcsumb](https://github.com/loganlabcsumb)
 - [ecoocelab-csun](https://github.com/ecoocelab-csun)
 - [ClaisseLab](https://github.com/ClaisseLab) *new*!
+- [coastal ecosystems lab](https://github.com/coastal-ecosystems-lab) *new too*!
